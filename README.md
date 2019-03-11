@@ -11,7 +11,7 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [3. SINE: Scalable Incomplete Network Embedding](https://github.com/benedekrozemberczki/SINE)
 - [x] [4. Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/benedekrozemberczki/AttentionWalks)
 - [x] [5. Graph Wavelet Neural Network](https://github.com/benedekrozemberczki/GWNN)
-- [x] [6. Biological Network Comparison Using Graphlet Degree Distribution](https://github.com/benedekrozemberczki/OrbitalStrike)
+- [x] [6. Biological Network Comparison Using Graphlet Degree Distribution](https://github.com/benedekrozemberczki/OrbitalFeatures)
 - [x] [7. Learning Role-based Graph Embeddings](https://github.com/benedekrozemberczki/role2vec)
 - [x] [8. SimGNN: A Neural Network Approach to Fast Graph Similarity Computation](https://github.com/benedekrozemberczki/SimGNN)
 - [x] [9. Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/benedekrozemberczki/APPNP)
