@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/thKzPkw.png">
 </div>
 
-## Resolution 👨🏻‍💻 ![](https://img.shields.io/badge/progress-3.84%25-green.svg)
+## Resolution 👨🏻‍💻 ![](https://img.shields.io/badge/progress-19.23%25-green.svg)
 
 This year my resolution is that I will implement 52 machine learning papers.
 
