@@ -14,5 +14,5 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [6. Biological Network Comparison Using Graphlet Degree Distribution](https://github.com/benedekrozemberczki/OrbitalFeatures)
 - [x] [7. Learning Role-based Graph Embeddings](https://github.com/benedekrozemberczki/role2vec)
 - [x] [8. SimGNN: A Neural Network Approach to Fast Graph Similarity Computation](https://github.com/benedekrozemberczki/SimGNN)
-- [x] [9. Combining Neural Networks with Personalized PageRank for Classification on Graphs](https://github.com/benedekrozemberczki/APPNP)
+- [x] [9. Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://github.com/benedekrozemberczki/APPNP)
 - [x] [10. A Higher Order Graph Convolutional Network](https://github.com/benedekrozemberczki/NGCN)
