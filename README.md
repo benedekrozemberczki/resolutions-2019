@@ -9,7 +9,7 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [1. Graph Classification using Structural Attention](https://github.com/benedekrozemberczki/GAM)
 - [x] [2. Alternating Direction Method of Multipliers for Non-Negative Matrix Factorization with the Beta-Divergence](https://github.com/benedekrozemberczki/NMF_ADMM)
 - [x] [3. SINE: Scalable Incomplete Network Embedding](https://github.com/benedekrozemberczki/SINE)
-- [x] [4. Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/benedekrozemberczki/AttentionWalks)
+- [x] [4. Watch Your Step: Learning Graph Embeddings Through Attention](https://github.com/benedekrozemberczki/AttentionWalk)
 - [x] [5. Graph Wavelet Neural Network](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
 - [x] [6. Biological Network Comparison Using Graphlet Degree Distribution](https://github.com/benedekrozemberczki/OrbitalFeatures)
 - [x] [7. Learning Role-based Graph Embeddings](https://github.com/benedekrozemberczki/role2vec)
