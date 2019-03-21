@@ -17,3 +17,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [9. Predict then Propagate: Graph Neural Networks meet Personalized PageRank](https://github.com/benedekrozemberczki/APPNP)
 - [x] [10. A Higher Order Graph Convolutional Network](https://github.com/benedekrozemberczki/NGCN)
 - [x] [11. Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters](https://github.com/benedekrozemberczki/EgoSplitting)
+- [x] [12. https://github.com/benedekrozemberczki/Splitter](https://github.com/benedekrozemberczki/Splitter)
