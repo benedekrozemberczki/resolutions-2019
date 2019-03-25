@@ -18,3 +18,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [10. A Higher Order Graph Convolutional Network](https://github.com/benedekrozemberczki/NGCN)
 - [x] [11. Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters](https://github.com/benedekrozemberczki/EgoSplitting)
 - [x] [12. Splitter: Learning Node Representations that Capture Multiple Social Contexts](https://github.com/benedekrozemberczki/Splitter)
+- [x] [13. Capsule Graph Neural Network](https://github.com/benedekrozemberczki/CapsGNN)
