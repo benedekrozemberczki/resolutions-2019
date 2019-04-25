@@ -19,3 +19,6 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [11. Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters](https://github.com/benedekrozemberczki/EgoSplitting)
 - [x] [12. Splitter: Learning Node Representations that Capture Multiple Social Contexts](https://github.com/benedekrozemberczki/Splitter)
 - [x] [13. Capsule Graph Neural Network](https://github.com/benedekrozemberczki/CapsGNN)
+- [x] [14. GEMSEC: Graph Embedding With Self-Clustering](https://github.com/benedekrozemberczki/CapsGNN)
+- [x] [15. Jump Around! Multi-scale Attributed Node Embedding](https://github.com/benedekrozemberczki/CapsGNN)
+- [x] [16. Semi-Supervised Graph Classification: A Hierarchical GraphPerspective](https://github.com/benedekrozemberczki/CapsGNN)
