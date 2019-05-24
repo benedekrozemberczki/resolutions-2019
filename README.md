@@ -23,3 +23,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [15. Jump Around! Multi-scale Attributed Node Embedding](https://github.com/benedekrozemberczki/MUSAE)
 - [x] [16. Semi-Supervised Graph Classification: A Hierarchical Graph Perspective](https://github.com/benedekrozemberczki/SEAL)
 - [x] [17. MixHop: Higher-Order Graph Convolutional Architecturesvia Sparsified Neighborhood Mixing](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
+- [x] [18. GraRep: Learning Graph Representations with Global Structural Information](https://github.com/benedekrozemberczki/GraRep)
