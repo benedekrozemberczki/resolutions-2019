@@ -25,3 +25,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [17. MixHop: Higher-Order Graph Convolutional Architecturesvia Sparsified Neighborhood Mixing](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
 - [x] [18. GraRep: Learning Graph Representations with Global Structural Information](https://github.com/benedekrozemberczki/GraRep)
 - [x] [19. Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://github.com/benedekrozemberczki/ClusterGCN)
+- [x] [20. EdMot: An Edge Enhancement Approach for Motif-aware Community Detection](https://github.com/benedekrozemberczki/EdMot)
