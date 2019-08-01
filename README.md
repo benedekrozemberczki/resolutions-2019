@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/thKzPkw.png">
 </div>
 
-## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-36.53%25-green.svg) ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/resolutions-2019.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/resolutions-2019.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/benedekrozemberczki/resolutions-2019.svg?color=blue&style=plastic)
+## Implementing papers 👨🏻‍💻 ![](https://img.shields.io/badge/progress-38.46%25-green.svg) ![GitHub stars](https://img.shields.io/github/stars/benedekrozemberczki/resolutions-2019.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/benedekrozemberczki/resolutions-2019.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/benedekrozemberczki/resolutions-2019.svg?color=blue&style=plastic)
 
 This year my resolution is that I will implement 52 machine learning papers.
 
