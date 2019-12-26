@@ -28,6 +28,6 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [20. EdMot: An Edge Enhancement Approach for Motif-aware Community Detection](https://github.com/benedekrozemberczki/EdMot)
 - [x] [21. Multi-Level Network Embedding with Boosted Low-Rank Matrix Approximation](https://github.com/benedekrozemberczki/BoostedFactorization)
 - [x] [22. A Non-negative Symmetric Encoder-Decoder Approach
-    for Community Detection](https://karateclub.readthedocs.io/en/latest/modules/root.html#karateclub.nnsed.NNSED)
+    for Community Detection](https://github.com/benedekrozemberczki/karateclub)
 - [x] [23. Multi-scale Attributed Node Embedding](https://github.com/benedekrozemberczki/MUSAE)
 
