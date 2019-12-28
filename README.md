@@ -30,4 +30,4 @@ This year my resolution is that I will implement 52 machine learning papers.
 - [x] [22. A Non-negative Symmetric Encoder-Decoder Approach
     for Community Detection](https://github.com/benedekrozemberczki/karateclub)
 - [x] [23. Multi-scale Attributed Node Embedding](https://github.com/benedekrozemberczki/MUSAE)
-
+- [x] [24. Overlapping Community Detection at Scale: A Nonnegative Matrix Factorization Approach](https://github.com/benedekrozemberczki/MUSAE)
